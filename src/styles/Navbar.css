@@ -1,0 +1,26 @@
+
+
+.navbar-root {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 13vh;
+    bottom: 0vh;
+    background-color: lightgrey;
+}
+
+.navbar-tab-root {
+    display: inline-block;
+    height: 10vh;
+    width: inherit;
+    background-color: lightgreen;
+
+}
+
+.navbar-tab-img-root {
+
+}
+
+.navbar-tab-title {
+
+}
